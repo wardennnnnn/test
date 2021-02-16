@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "dot.h"
 
+// test edit
+
 /*  Compile by
 gcc main.c dot.c -o main
 */
